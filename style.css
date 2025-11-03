@@ -1,0 +1,92 @@
+
+.header-container {
+  display: flex;
+  justify-content: center;
+}
+h1 {
+  background-color: red;
+  width: 400px;
+}
+img{
+    border-radius: 4px;
+    padding: 10px;
+    margin: 10px;
+}
+.clo{
+    display: flex;
+}
+p1{
+    text-align: center;
+    margin:10px;
+}
+.clu{
+    display:flex;
+    margin:10px;
+    padding: 10px;
+    border: 2px solid black;
+
+}
+.hugh{
+    display: flex;
+    margin:10px;
+    padding: 10px;
+    border: 2px solid black;
+    background-color: yellow;
+    border-radius: 5px;
+}
+.ryan{
+    display:flex;
+    margin:10px;
+    padding: 10px;
+    border: 2px solid black;
+    background-color: red;
+    border-radius: 5px;
+}
+.chris{
+    display: flex;
+    margin:10px;
+    padding: 10px;
+    border: 2px solid black;
+    background-color: blue;
+    border-radius: 5px;
+}
+.henry{
+    display:flex;
+    margin:10px;
+    padding: 10px;
+    border: 2px solid black;
+    background-color: orange;
+    border-radius: 5px;
+}
+
+.clo{
+    border: 2px solid black;
+}
+.gambit{
+    display:flex;
+    margin:10px;
+    padding: 10px;
+    border: 2px solid black;
+    background-color: purple;
+    border-radius: 5px;
+}
+.mark{
+    display:flex;
+    margin:10px;
+    padding: 10px;
+    border: 2px solid black;
+    background-color: green;
+    border-radius: 5px;
+}
+.trailer{
+    display:flex;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+
+}
+iframe{
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+}
